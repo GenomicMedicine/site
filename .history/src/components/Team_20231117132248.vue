@@ -53,8 +53,8 @@
             </div>
 
             <div class="text_area">
-                <img class="team_img" src="images/LiJiaxuan.jpg">
-                <ul class="team_member4_describe">
+                <img class="team_img" src="images/Zhouxinyu.jpg">
+                <ul class="team_member2_describe">
                     <li>Li, Jiaxuan</li>
                     <li>LLMs and DNA Biomarker</li>
                 </ul>
@@ -209,15 +209,6 @@
 .team_member3_describe{
     float: right;
     padding-right: 428.94px;
-    padding-top: 20px;
-    li{
-        padding-bottom: 15px;
-    }
-}
-
-.team_member4_describe{
-    float: right;
-    padding-right: 416.74px;
     padding-top: 20px;
     li{
         padding-bottom: 15px;

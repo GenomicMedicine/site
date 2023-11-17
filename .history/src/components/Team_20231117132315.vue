@@ -214,13 +214,4 @@
         padding-bottom: 15px;
     }
 }
-
-.team_member4_describe{
-    float: right;
-    padding-right: 416.74px;
-    padding-top: 20px;
-    li{
-        padding-bottom: 15px;
-    }
-}
 </style>

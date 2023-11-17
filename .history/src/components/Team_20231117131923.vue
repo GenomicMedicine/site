@@ -52,14 +52,6 @@
                 </ul>
             </div>
 
-            <div class="text_area">
-                <img class="team_img" src="images/LiJiaxuan.jpg">
-                <ul class="team_member4_describe">
-                    <li>Li, Jiaxuan</li>
-                    <li>LLMs and DNA Biomarker</li>
-                </ul>
-            </div>
-
             <div class="team_statement">
                 <div class="general-block-blue"></div>
                 <div class="team_member_statement">GRADUATE STUDENT</div>
@@ -209,15 +201,6 @@
 .team_member3_describe{
     float: right;
     padding-right: 428.94px;
-    padding-top: 20px;
-    li{
-        padding-bottom: 15px;
-    }
-}
-
-.team_member4_describe{
-    float: right;
-    padding-right: 416.74px;
     padding-top: 20px;
     li{
         padding-bottom: 15px;
