@@ -1,0 +1,154 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    min-width: 1100px;
+    height: 100%;
+    font-size: 14px;
+    font-family: '微软雅黑',Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+    outline: none;
+}
+
+ul {
+    list-style: none;
+}
+
+/* 提取版心 */
+.w {
+   width: 1100px;
+   margin: 0 auto;
+}
+ .content{
+   width: 1208px;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   padding-bottom: 10px;
+}
+
+
+.title{
+   line-height: 26px;
+   height: 26px;
+   padding:30px 0 30px 90px;
+}
+
+.title_span{
+   /* font-weight:500; */
+   color: rgba(0, 0, 0, .85);
+   font-size: 28px;
+}
+
+
+.research-content{
+   float: right;
+   background-color: #FFF;
+   height: auto;
+   width: 60%;
+   padding-top: 72px;
+   padding-right: 15%;
+   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
+}
+
+.research_title{
+   font-size: 24px;
+   font-weight: bold;
+   padding-bottom: 20px;
+   padding-left: 10px;
+   width: 120%;
+   font-style: italic;
+   overflow-y: auto;
+}
+
+.research_sentence{
+   background-color: #fff;
+   font-size: 18px;
+   letter-spacing: 1px;
+   padding-bottom: 20px;
+   padding-top: 10px;
+   padding-left: 10px;
+   text-align: justify;
+   width: 120%;
+}
+
+.research_link{
+   color: #C91523;
+}
+
+.research_img{
+   margin-left: 10%;
+   width: 690px;
+   padding-bottom: 20px;
+}
+
+.icon{
+   width: 22px;
+   height: 22px;
+}
+
+.goTop{
+   float: right;
+}
+
+.publications_content_all{
+   float: right;
+   background-color: #FAFAFA;
+   height: auto;
+   width: 75%;
+   padding-top: 10px;
+   padding-left: 10px;
+}
+
+.publications_nav{
+   line-height: 26px;
+   padding:0px 0 30px 0px;
+   display: inline-block;
+   width: 11%;
+   height: auto;
+}
+
+.publications_content{
+   float: right;
+   background-color: #FAFAFA;
+   height: auto;
+   padding-top: 25px;
+   padding-left: 10px;
+}
+
+.publications_sentence{
+   background-color: #fff;
+   font-size: 18px;
+   letter-spacing: 0px;
+   padding-top: 10px;
+   padding-bottom: 20px;
+   margin-bottom: 20px;
+   padding-left: 10px;
+   padding-right: 10px;
+   text-align: justify;
+}
+
+.publications_content_year{
+   float: right;
+   background-color: #FAFAFA;
+   height: auto;
+   width: 89%;
+   padding-top: 10px;
+}
+
+.Journal_statement{
+   background: linear-gradient(270deg, #FFFFFF 0%, #EDF7FF 98%);
+   display:flex;
+   align-items: center;
+   height: 50px;
+}
+.Journal_content_statement{
+   font-size: 20px;
+   margin-left: 4px;
+}
