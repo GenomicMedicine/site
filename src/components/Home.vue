@@ -46,22 +46,20 @@
         <span class="title_span">News</span>
       </div>
 
-            
+      <!-- News -->
       <div class="text_area">
         <ul>
           <div class="news_time">2023.11</div>
           <div class="news_content">
-            Our paper on  <b>A neuroimaging-based precision medicine framework for depression</b> was published online with <b>Asian J Psychiatry</b>. 
+            Our paper on <b>A neuroimaging-based precision medicine framework for depression</b> was published online with
+            <b>Asian J Psychiatry</b>.
           </div>
         </ul>
       </div>
-      
+
       <div>
-        <a
-          href="https://www.polyu.edu.hk/pair/news-and-events/news/2023/20231020-one-hundred-and-ten-pair-scholars-ranked-among-world-top-2-most-cited-scientists/?sc_lang=tc"
-          target="_blank"
-          class="news_content_link"
-        >
+        <a href="https://www.polyu.edu.hk/pair/news-and-events/news/2023/20231020-one-hundred-and-ten-pair-scholars-ranked-among-world-top-2-most-cited-scientists/?sc_lang=tc"
+          target="_blank" class="news_content_link">
           <div class="text_area">
             <ul>
               <div class="news_time">2023.11</div>
@@ -73,7 +71,7 @@
           </div>
         </a>
       </div>
-      
+
       <div class="text_area">
         <ul>
           <div class="news_time">2023.11</div>
@@ -81,35 +79,37 @@
             Wang Xin, a new coming postdoc, received <b>PolyU Distinguished Postdoctorial Fellowship</b>.
           </div>
         </ul>
-      </div>  
-      
+      </div>
+
       <div class="text_area">
         <ul>
           <div class="news_time">2023.11</div>
           <div class="news_content">
-            Ma Ke, a new coming student, received <b>PolyU Presidential PhD Fellowship</b>. 
+            Ma Ke, a new coming student, received <b>PolyU Presidential PhD Fellowship</b>.
           </div>
         </ul>
       </div>
-                  
+
       <div class="text_area">
         <ul>
           <div class="news_time">2023.9</div>
           <div class="news_content">
-            Our paper on <b>Total network controllability analysis discovers explainable drugs for Covid-19 treatment</b> was published in <b>Biology Direct</b>.
+            Our paper on <b>Total network controllability analysis discovers explainable drugs for Covid-19 treatment</b>
+            was published in <b>Biology Direct</b>.
           </div>
         </ul>
       </div>
-           
+
       <div class="text_area">
         <ul>
           <div class="news_time">2023.9</div>
           <div class="news_content">
-            Welcome Li Jiaxuan to the Lab as a <b> PhD student</b>. Jiaxuan received a PolyU fellowship under the 3+1 scheme.
+            Welcome Li Jiaxuan to the Lab as a <b> PhD student</b>. Jiaxuan received a PolyU fellowship under the 3+1
+            scheme.
           </div>
         </ul>
       </div>
-      
+
       <div class="text_area">
         <ul>
           <div class="news_time">2023.8</div>
@@ -132,27 +132,16 @@
           </div>
         </ul>
         <div class="links">
-          <a
-            href="https://news.now.com/home/local/player?newsId=526105&utm_source=nowNewsAppShare&utm_medium=referral"
-            class="news_link news_content_link"
-            target="_blank"
-            >[link to the video 1]</a
-          >
-          <a
-            href="https://news.now.com/home/local/player?newsId=526106&utm_source=nowNewsAppShare&utm_medium=referral"
-            class="news_link news_content_link"
-            target="_blank"
-            >[link to the video 2]</a
-          >
+          <a href="https://news.now.com/home/local/player?newsId=526105&utm_source=nowNewsAppShare&utm_medium=referral"
+            class="news_link news_content_link" target="_blank">[link to the video 1]</a>
+          <a href="https://news.now.com/home/local/player?newsId=526106&utm_source=nowNewsAppShare&utm_medium=referral"
+            class="news_link news_content_link" target="_blank">[link to the video 2]</a>
         </div>
       </div>
 
       <div>
-        <a
-          href="https://www.polyu.edu.hk/media/media-releases/2023/0719_polyu-awarded-rgc-strategic-topics-grant-to-address-societal-needs-in-mental-healthcare/"
-          target="_blank"
-          class="news_content_link"
-        >
+        <a href="https://www.polyu.edu.hk/media/media-releases/2023/0719_polyu-awarded-rgc-strategic-topics-grant-to-address-societal-needs-in-mental-healthcare/"
+          target="_blank" class="news_content_link">
           <div class="text_area">
             <ul>
               <div class="news_time">2023.7</div>
@@ -163,9 +152,7 @@
                 technologies for developing genetic and neuroimaging markers and
                 integrative approaches for objective diagnosis and personalized
                 therapy of major psychiatric disorders, including
-                <u>depression</u>, <u>schizophrenia</u>,<u
-                  >and bipolar disorder</u
-                >.
+                <u>depression</u>, <u>schizophrenia</u>,<u>and bipolar disorder</u>.
               </div>
             </ul>
           </div>
@@ -173,11 +160,7 @@
       </div>
 
       <div>
-        <a
-          href="https://www.cell.com/iscience/fulltext/S2589-0042(23)01373-1"
-          target="_blank"
-          class="news_content_link"
-        >
+        <a href="https://www.cell.com/iscience/fulltext/S2589-0042(23)01373-1" target="_blank" class="news_content_link">
           <div class="text_area">
             <ul>
               <div class="news_time">2023.7</div>
@@ -222,6 +205,7 @@ export default {};
 .home {
   background-color: @intervalColor;
 }
+
 .text_area {
   background-color: #fff;
   padding-top: 15px;
@@ -229,29 +213,37 @@ export default {};
   margin-bottom: 15px;
   font-size: 20px;
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
+
   // cursor: pointer;
   ul {
     display: flex;
     padding-left: 90px;
+
     li {
       width: 400px;
     }
+
     padding-top: 20px;
+
     &:last-child {
       padding-bottom: 20px;
     }
   }
+
   .hoverShadow();
 }
 
 .news_content_link:visited {
   color: @highLightColor;
+
   .news_content {
     color: @highLightColor;
   }
 }
+
 .news_content_link:link {
   color: @navColor;
+
   .news_content {
     color: @navColor;
   }
