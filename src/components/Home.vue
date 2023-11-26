@@ -46,6 +46,16 @@
         <span class="title_span">News</span>
       </div>
 
+            
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2023.11</div>
+          <div class="news_content">
+            Our paper on  <b>A neuroimaging-based precision medicine framework for depression</b> was published online with <b>Asian J Psychiatry</b>. 
+          </div>
+        </ul>
+      </div>
+      
       <div>
         <a
           href="https://www.polyu.edu.hk/pair/news-and-events/news/2023/20231020-one-hundred-and-ten-pair-scholars-ranked-among-world-top-2-most-cited-scientists/?sc_lang=tc"
@@ -63,7 +73,43 @@
           </div>
         </a>
       </div>
-
+      
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2023.11</div>
+          <div class="news_content">
+            Wang Xin, a new coming postdoc, received <b>PolyU Distinguished Postdoctorial Fellowship</b>.
+          </div>
+        </ul>
+      </div>  
+      
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2023.11</div>
+          <div class="news_content">
+            Ma Ke, a new coming student, received <b>PolyU Presidential PhD Fellowship</b>. 
+          </div>
+        </ul>
+      </div>
+                  
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2023.9</div>
+          <div class="news_content">
+            Our paper on <b>Total network controllability analysis discovers explainable drugs for Covid-19 treatment</b> was published in <b>Biology Direct</b>.
+          </div>
+        </ul>
+      </div>
+           
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2023.9</div>
+          <div class="news_content">
+            Welcome Li Jiaxuan to the Lab as a <b> PhD student</b>. Jiaxuan received a PolyU fellowship under the 3+1 scheme.
+          </div>
+        </ul>
+      </div>
+      
       <div class="text_area">
         <ul>
           <div class="news_time">2023.8</div>
