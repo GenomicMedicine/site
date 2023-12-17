@@ -6,11 +6,33 @@
             </div>
 
             <div class="text_area">
-                <span class="join_content"><b>We are looking for young talents with background in <span style="color: #7030A0;"> Computer Science and Engineering, Math, Biology, Medicine, and related fields</span>. We have multiple positions available at all levels - <span style="color: #7030A0;">Research fellow, postdoc fellow, research assistant and PhD, MS, and undergraduate student</span>.</b></span>
-                <span class="join_content"><b>Prospective applicants may sent inquiry to:</b>  weixiong.zhang [at] polyu.edu.hk</span>
+                <span class="join_content">We are looking for young talents with background in <span
+                        style="color: #7030A0;"> Computer Science and Engineering, Biology, Computational Biology, Genomics,
+                        Biomedical Engineering, Medicine</span> and related disciplines to join the Hong Kong Jockey Club
+                    STEM Laboratory of Genomics in Healthcare.</span>
+                <span class="join_content">
+                    <b>Multiple positions are available</b><br>
+                    <span style="color: #7030A0;"><b> • Research Assistant Professors</b></span><br>
+                    <span style="color: #7030A0;"> • (Senior) <b>Research Fellows</b></span><br>
+                    <span style="color: #7030A0;"><b> • Postdoctoral Fellows</b></span><br>
+                    <span style="color: #7030A0;"> • Research Assistants</span><br>
+                    <span style="color: #7030A0;"> • PhD and Master's students</span><br>
+                    <span style="color: #7030A0;"> • Undergraduate Interns</span>
+                </span>
+                <span class="join_content">If you are passionate about advancing genomic medicine and developing AI
+                    technology for healthcare, you will find a home at this interdisciplinary systems biology and genomics
+                    lab. Join our active research team and be part of groundbreaking research at the forefront of AI,
+                    genomics and molecular biology.</span>
+                <span class="join_content">The laboratory, supported by the Research Grants Council of Hong Kong and The
+                    Hong Kong Jockey Club Charities Trust, is a comprehensive facility consisting of a Computational
+                    Genomics Laboratory and a Molecular Biology Laboratory. Facilitated by ~200 square meters of office/lab
+                    space, it can accommodate over 40 researchers and students. The Computational Laboratory has a cluster
+                    of CPUs, GPUs, file servers, and petabyte-scale disk arrays. The Molecular Biology Laboratory is
+                    equipped with instruments related to genomics, cellular/molecular mechanisms, and conventional
+                    techniques.</span>
             </div>
 
-            <div class="title">
+            <!-- <div class="title">
                 <span class="title_span">Example position</span>
             </div>
 
@@ -33,64 +55,66 @@
             </div>
             <div class="text_area">
                 <span class="join_content">A highly competitive remuneration package will be offered. current and expected salary in the application.</span>
-            </div>
+            </div> -->
 
             <div class="title">
                 <span class="title_span">Application</span>
             </div>
             <div class="text_area">
-                <span class="join_content">Please send a completed application form by post to Human Resources Office, 13/F, Li Ka Shing Tower, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong or via email to <a href="mailto: weixiong.zhang@polyu.edu.hk" style="color: #0000FF;"><i><u>weixiong.zhang [at] polyu.edu.hk.</u></i></a></span>
-                <span class="join_content">Application forms can be downloaded from <a href="https://www.polyu.edu.hk/hro/careers/guidelines_and_forms/forms" style="color: #0000FF;"><i><u>https://www.polyu.edu.hk/hro/careers/guidelines_and_forms/forms.</u></i></a> If a separate curriculum vitae is to be provided, please still complete the application form which will help speed up the recruitment process.</span>
-                <span class="join_content"><b>Recruitment will continue until the position is filled. Applications should be addressed directly to Prof. Zhang Weixiong (please state Department of Health Technology and Informatics on the envelope). </b></span>
-                <span class="join_content">The University’s Personal Information Collection Statement for recruitment can be found at<a href="https://www.polyu.edu.hk/hro/careers/guidelines_and_forms/pics_for_recruitment" style="color: #0000FF;"><i><u> https://www.polyu.edu.hk/hro/careers/guidelines_and_forms/pics_for_recruitment.</u></i></a></span>
+                <span class="join_content"><b>Prospective applicants may sent inquiry to:</b>genomics@polyu.edu.hk</span>
             </div>
         </div>
     </div>
- </template>
+</template>
 
- <script>
-    export default {
-    }
+<script>
+export default {
+}
 </script>
 
 <style lang="less" scoped>
-.join_us{
+.join_us {
     background-color: @intervalColor;
 }
-.text_area{
+
+.text_area {
     box-shadow: 0 3px 8px rgba(0, 0, 0, 0.05);
     background-color: #fff;
     padding-top: 15px;
     padding-bottom: 10px;
     margin-bottom: 15px;
     font-size: 20px;
-    ul{
+
+    ul {
         display: flex;
         padding-left: 90px;
-        li{
+
+        li {
             width: 400px;
         }
+
         padding-top: 20px;
+
         &:last-child {
             padding-bottom: 20px
         }
     }
+
     .hoverShadow();
 }
-.join_content{
-        padding-top: 15px;
-        display: inline-block;
-        font-size: 20px;
-        padding-left: 90px;
-        letter-spacing: 1px;
-}
-.join_content1{
-        padding-top: 15px;
-        display: inline-block;
-        font-size: 17px;
-        padding-left: 90px;
-        letter-spacing: 1px;
+
+.join_content {
+    padding-top: 15px;
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 90px;
+    letter-spacing: 1px;
 }
 
-
-</style>
+.join_content1 {
+    padding-top: 15px;
+    display: inline-block;
+    font-size: 17px;
+    padding-left: 90px;
+    letter-spacing: 1px;
+}</style>
