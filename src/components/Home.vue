@@ -49,6 +49,15 @@
             
       <div class="text_area">
         <ul>
+          <div class="news_time">2023.12</div>
+          <div class="news_content">
+            Wang Zhenqian, a new coming student, received <b>PolyU Presidential PhD Fellowship</b>. 
+          </div>
+        </ul>
+      </div>
+            
+      <div class="text_area">
+        <ul>
           <div class="news_time">2023.11</div>
           <div class="news_content">
             Our paper on  <b>A neuroimaging-based precision medicine framework for depression</b> was published online with <b>Asian J Psychiatry</b>. 
