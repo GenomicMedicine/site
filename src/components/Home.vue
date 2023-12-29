@@ -41,7 +41,7 @@
         </ul>
       </div>
 
-      <!-- News -->
+      <!-- News u是下划线，b是加粗，div是容器-->
       <div class="title">
         <span class="title_span">News</span>
       </div>
