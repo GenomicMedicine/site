@@ -36,6 +36,15 @@
                 <div class="general-block-blue"></div>
                 <div class="team_member_statement">RESEARCH ASSISTANT</div>
             </div>
+
+            <div class="text_area">
+                <img class="team_img" src="images/HuangShihui.jpg">
+                <ul class="team_member2_describe">
+                    <li>Huang, Shihui</li>
+                    <li>Bioinformatics</li>
+                </ul>
+            </div>
+
             <div class="text_area">
                 <img class="team_img" src="images/Qiuqian.jpg">
                 <ul class="team_member2_describe">
