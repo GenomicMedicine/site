@@ -31,6 +31,19 @@
                     <li>Molecular biology</li>
                 </ul>
             </div>
+            <div class="team_statement">
+                <div class="general-block-blue"></div>
+                <div class="team_member_statement">POSTDOCTORAL RESEARCHER</div>
+            </div>
+
+            <div class="text_area">
+                <img class="team_img" src="images/WangXin.jpg">
+                <ul class="team_member2_describe">
+                    <li>Wang, Xin</li>
+                    <li>Bioinformatics</li>
+                </ul>
+            </div>
+
 
             <div class="team_statement">
                 <div class="general-block-blue"></div>
