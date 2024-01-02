@@ -86,7 +86,7 @@
                 <div class="general-block-blue"></div>
                 <div class="team_member_statement">GRADUATE STUDENT</div>
             </div>
-
+            
             <div class="text_area">
                 <img class="team_img" src="images/LiKang.jpg">
                 <ul class="team_member2_describe">
@@ -94,6 +94,16 @@
                     <li>Noncoding RNA</li>
                 </ul>
             </div>
+
+            
+            <div class="text_area">
+                <img class="team_img" src="images/MaKe.jpg">
+                <ul class="team_member2_describe">
+                    <li>Ma, Ke</li>
+                    <li>Bioinformatics</li>
+                </ul>
+            </div>
+
 
             <div class="text_area">
                 <img class="team_img" src="images/WangWeixu.png">
