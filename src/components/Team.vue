@@ -82,13 +82,7 @@
                 </ul>
             </div>
            
-            <div class="text_area">
-                <img class="team_img" src="images/ZhuYanan.jpg">
-                <ul class="team_member4_describe">
-                    <li>Zhu, Yanan</li>
-                    <li>Molecular biology</li>
-                </ul>
-            </div>
+            
             
            
            
