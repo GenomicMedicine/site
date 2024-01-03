@@ -81,7 +81,17 @@
                     <li>LLMs and DNA Biomarker</li>
                 </ul>
             </div>
-
+           
+            <div class="text_area">
+                <img class="team_img" src="images/ZhuYanan.jpg">
+                <ul class="team_member4_describe">
+                    <li>Zhu, Yanan</li>
+                    <li>Molecular biology</li>
+                </ul>
+            </div>
+            
+           
+           
             <div class="team_statement">
                 <div class="general-block-blue"></div>
                 <div class="team_member_statement">GRADUATE STUDENT</div>
