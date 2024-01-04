@@ -59,6 +59,14 @@
             </div>
 
             <div class="text_area">
+                <img class="team_img" src="images/LiJiaxuan.jpg">
+                <ul class="team_member4_describe">
+                    <li>Li, Jiaxuan</li>
+                    <li>LLMs and DNA Biomarker</li>
+                </ul>
+            </div>
+            
+            <div class="text_area">
                 <img class="team_img" src="images/Qiuqian.jpg">
                 <ul class="team_member2_describe">
                     <li>Qiu, Qian</li>
@@ -74,13 +82,7 @@
                 </ul>
             </div>
 
-            <div class="text_area">
-                <img class="team_img" src="images/LiJiaxuan.jpg">
-                <ul class="team_member4_describe">
-                    <li>Li, Jiaxuan</li>
-                    <li>LLMs and DNA Biomarker</li>
-                </ul>
-            </div>
+            
            
             <div class="text_area">
                 <img class="team_img" src="images/ZhuYanan.jpg">
