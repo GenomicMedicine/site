@@ -44,6 +44,19 @@
                 </ul>
             </div>
 
+            <div class="team_statement">
+                <div class="general-block-blue"></div>
+                <div class="team_member_statement">Doctorate</div>
+            </div>
+
+            <div class="text_area">
+                <img class="team_img" src="images/LiJiaxuan.jpg">
+                <ul class="team_member4_describe">
+                    <li>Li, Jiaxuan</li>
+                    <li>LLMs and DNA Biomarker</li>
+                </ul>
+            </div>
+
 
             <div class="team_statement">
                 <div class="general-block-blue"></div>
@@ -58,13 +71,7 @@
                 </ul>
             </div>
 
-            <div class="text_area">
-                <img class="team_img" src="images/LiJiaxuan.jpg">
-                <ul class="team_member4_describe">
-                    <li>Li, Jiaxuan</li>
-                    <li>LLMs and DNA Biomarker</li>
-                </ul>
-            </div>
+            
             
             <div class="text_area">
                 <img class="team_img" src="images/Qiuqian.jpg">
@@ -82,7 +89,13 @@
                 </ul>
             </div>
 
-            
+            <div class="text_area">
+                <img class="team_img" src="images/Zhaoqihang.jpg">
+                <ul class="team_member2_describe">
+                    <li>Zhao, Qihang</li>
+                    <li>DNA Biomarker</li>
+                </ul>
+            </div>
            
             <div class="text_area">
                 <img class="team_img" src="images/ZhuYanan.jpg">
@@ -141,13 +154,7 @@
                 </ul>
             </div>
 
-            <div class="text_area">
-                <img class="team_img" src="images/Zhaoqihang.jpg">
-                <ul class="team_member2_describe">
-                    <li>Zhao, Qihang</li>
-                    <li>DNA Biomarker</li>
-                </ul>
-            </div>
+            
 
             <div class="team_statement">
                 <div class="general-block-blue"></div>
