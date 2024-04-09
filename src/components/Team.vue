@@ -50,10 +50,10 @@
             </div>
 
             <div class="text_area">
-                <img class="team_img" src="images/LiJiaxuan.jpg">
+                <img class="team_img" src="images/Fu Qinghui.jpg">
                 <ul class="team_member4_describe">
-                    <li>Li, Jiaxuan</li>
-                    <li>LLMs and DNA Biomarker</li>
+                    <li>Fu, Qinghui</li>
+                    <li>Molecular biology</li>
                 </ul>
             </div>
 
@@ -73,21 +73,6 @@
 
             
             
-            <div class="text_area">
-                <img class="team_img" src="images/Qiuqian.jpg">
-                <ul class="team_member2_describe">
-                    <li>Qiu, Qian</li>
-                    <li>Molecular biology</li>
-                </ul>
-            </div>
-
-            <div class="text_area">
-                <img class="team_img" src="images/Zhouxinyu.jpg">
-                <ul class="team_member2_describe">
-                    <li>Zhou, Xinyu</li>
-                    <li>Molecular biology</li>
-                </ul>
-            </div>
 
             <div class="text_area">
                 <img class="team_img" src="images/Zhaoqihang.jpg">
