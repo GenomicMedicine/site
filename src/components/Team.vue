@@ -44,18 +44,8 @@
                 </ul>
             </div>
 
-            <div class="team_statement">
-                <div class="general-block-blue"></div>
-                <div class="team_member_statement">Doctorate</div>
-            </div>
+           
 
-            <div class="text_area">
-                <img class="team_img" src="images/Fu Qinghui.jpg">
-                <ul class="team_member4_describe">
-                    <li>Fu, Qinghui</li>
-                    <li>Molecular biology</li>
-                </ul>
-            </div>
 
 
             <div class="team_statement">
@@ -96,7 +86,14 @@
                 <div class="general-block-blue"></div>
                 <div class="team_member_statement">GRADUATE STUDENT</div>
             </div>
-            
+            <div class="text_area">
+                <img class="team_img" src="images/Fu Qinghui.jpg">
+                <ul class="team_member4_describe">
+                    <li>Fu, Qinghui</li>
+                    <li>Molecular biology</li>
+                </ul>
+            </div> 
+           
             <div class="text_area">
                 <img class="team_img" src="images/LiKang.jpg">
                 <ul class="team_member2_describe">
