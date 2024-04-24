@@ -46,7 +46,15 @@
         <span class="title_span">News</span>
       </div>
 
-            
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.04</div>
+          <div class="news_content">
+            Abebe Edao, a new coming student, received <b>HK phd fellowship</b>. 
+          </div>
+        </ul>
+      </div>     
+     
       <div class="text_area">
         <ul>
           <div class="news_time">2023.12</div>
