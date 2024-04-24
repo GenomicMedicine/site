@@ -61,7 +61,13 @@
                 </ul>
             </div>
 
-            
+            <div class="text_area">
+                <img class="team_img" src="images/Sun Canghao.jpg">
+                <ul class="team_member2_describe">
+                    <li>Sun, Canghao</li>
+                    <li>Molecular biology</li>
+                </ul>
+            </div>
             
 
             <div class="text_area">
