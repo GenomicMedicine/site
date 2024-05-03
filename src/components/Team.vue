@@ -53,13 +53,7 @@
                 <div class="team_member_statement">RESEARCH ASSISTANT</div>
             </div>
 
-            <div class="text_area">
-                <img class="team_img" src="images/HuangShihui.jpg">
-                <ul class="team_member2_describe">
-                    <li>Huang, Shihui</li>
-                    <li>Bioinformatics</li>
-                </ul>
-            </div>
+        
 
             <div class="text_area">
                 <img class="team_img" src="images/Sun Canghao.jpg">
@@ -70,13 +64,7 @@
             </div>
             
 
-            <div class="text_area">
-                <img class="team_img" src="images/Zhaoqihang.jpg">
-                <ul class="team_member2_describe">
-                    <li>Zhao, Qihang</li>
-                    <li>DNA Biomarker</li>
-                </ul>
-            </div>
+           
            
             <div class="text_area">
                 <img class="team_img" src="images/ZhuYanan.jpg">
@@ -133,7 +121,26 @@
                     <li>DNA Biomarker</li>
                 </ul>
             </div>
-
+            <div class="text_area">
+                <img class="team_img" src="images/ZhangChi.jpg">
+                <ul class="team_member2_describe">
+                    <li>Zhang, Chi</li>
+                    <li>Bioinformatics</li>
+                </ul>
+            </div>
+           
+            <div class="text_area">
+                <img class="team_img" src="images/Zhaoqihang.jpg">
+                <ul class="team_member2_describe">
+                    <li>Zhao, Qihang</li>
+                    <li>DNA Biomarker</li>
+                </ul>
+            </div>
+           
+           
+           
+           
+           
             <div class="text_area">
                 <img class="team_img" src="images/Zhuyan.jpg">
                 <ul class="team_member3_describe">
