@@ -56,7 +56,7 @@
         
 
             <div class="text_area">
-                <img class="team_img" src="images/Sun Canghao.jpg">
+                <img class="team_img" src="images/SunCanghao.jpg">
                 <ul class="team_member2_describe">
                     <li>Sun, Canghao</li>
                     <li>Molecular biology</li>
@@ -81,7 +81,7 @@
                 <div class="team_member_statement">GRADUATE STUDENT</div>
             </div>
             <div class="text_area">
-                <img class="team_img" src="images/Fu Qinghui.jpg">
+                <img class="team_img" src="images/FuQinghui.jpg">
                 <ul class="team_member4_describe">
                     <li>Fu, Qinghui</li>
                     <li>Molecular biology</li>
