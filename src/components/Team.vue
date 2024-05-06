@@ -122,6 +122,13 @@
                 </ul>
             </div>
             
+            <div class="text_area">
+                <img class="team_img" src="images/ZhangChi.jpg">
+                <ul class="team_member3_describe">
+                    <li>Zhang, Chi</li>
+                    <li>Computational biology</li>
+                </ul>
+            </div>
             
             
             <div class="text_area">
