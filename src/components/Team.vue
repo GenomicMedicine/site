@@ -121,14 +121,9 @@
                     <li>DNA Biomarker</li>
                 </ul>
             </div>
-            <div class="text_area">
-                <img class="team_img" src="images/ZhangChi.jpg">
-                <ul class="team_member2_describe">
-                    <li>Zhang, Chi</li>
-                    <li>Bioinformatics</li>
-                </ul>
-            </div>
-           
+            
+            
+            
             <div class="text_area">
                 <img class="team_img" src="images/Zhaoqihang.jpg">
                 <ul class="team_member2_describe">
