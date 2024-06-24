@@ -37,9 +37,9 @@
             </div>
 
             <div class="text_area">
-                <img class="team_img" src="images/WangXin.jpg">
+                <img class="team_img" src="images/TuYue.jpg">
                 <ul class="team_member2_describe">
-                    <li>Wang, Xin</li>
+                    <li>Tu, Yue</li>
                     <li>Bioinformatics</li>
                 </ul>
             </div>
@@ -53,7 +53,14 @@
                 <div class="team_member_statement">RESEARCH ASSISTANT</div>
             </div>
 
-        
+            <div class="text_area">
+                <img class="team_img" src="images/DengJing.jpg">
+                <ul class="team_member2_describe">
+                    <li>Deng, Jing</li>
+                    <li>Molecular biology</li>
+                </ul>
+            </div>
+            
 
             <div class="text_area">
                 <img class="team_img" src="images/SunCanghao.jpg">
