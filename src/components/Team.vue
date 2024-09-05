@@ -88,13 +88,13 @@
                 <div class="team_member_statement">GRADUATE STUDENT</div>
             </div>
             <div class="text_area">
-                <img class="team_img" src="images/FuQinghui.jpg">
+                <img class="team_img" src="images/HanNan.jpg">
                 <ul class="team_member4_describe">
-                    <li>Fu, Qinghui</li>
-                    <li>Molecular biology</li>
+                    <li>Han, Nan</li>
+                    <li>Bioinformatics </li>
                 </ul>
             </div> 
-           
+            
             <div class="text_area">
                 <img class="team_img" src="images/LiKang.jpg">
                 <ul class="team_member2_describe">
@@ -102,7 +102,18 @@
                     <li>Noncoding RNA</li>
                 </ul>
             </div>
+            
 
+            <div class="text_area">
+                <img class="team_img" src="images/LiYixin.jpg">
+                <ul class="team_member2_describe">
+                    <li>Li, Yixin</li>
+                    <li>Molecular biology</li>
+                </ul>
+            </div>
+            
+            
+            
             
             <div class="text_area">
                 <img class="team_img" src="images/MaKe.jpg">
@@ -113,6 +124,15 @@
             </div>
 
 
+
+            <div class="text_area">
+                <img class="team_img" src="images/Negesso, Abebe Edao.jpg">
+                <ul class="team_member2_describe">
+                    <li>Negesso, Abebe Edao</li>
+                    <li>Clinical chemistry</li>
+                </ul>
+            </div>
+
             <div class="text_area">
                 <img class="team_img" src="images/WangWeixu.png">
                 <ul class="team_member2_describe">
@@ -122,12 +142,21 @@
             </div>
 
             <div class="text_area">
-                <img class="team_img" src="images/ZhangFei.png">
+                <img class="team_img" src="images/WangYuchuan.jpg">
                 <ul class="team_member2_describe">
-                    <li>Zhang, Fei</li>
-                    <li>DNA Biomarker</li>
+                    <li>Wang, Yuchuan</li>
+                    <li>Computational Biology</li>
                 </ul>
             </div>
+            <div class="text_area">
+                <img class="team_img" src="images/WangZhenqian.jpg">
+                <ul class="team_member2_describe">
+                    <li>Wang, Zhenqian</li>
+                    <li>Genetic Epidemiology</li>
+                </ul>
+            </div>
+            
+            
             
             <div class="text_area">
                 <img class="team_img" src="images/ZhangChi.jpg">
@@ -136,8 +165,20 @@
                     <li>Computational biology</li>
                 </ul>
             </div>
-            
-            
+            <div class="text_area">
+                <img class="team_img" src="images/ZhangFei.png">
+                <ul class="team_member2_describe">
+                    <li>Zhang, Fei</li>
+                    <li>DNA Biomarker</li>
+                </ul>
+            </div>
+            <div class="text_area">
+                <img class="team_img" src="images/ZhangJie.jpg">
+                <ul class="team_member2_describe">
+                    <li>Zhang, Jie</li>
+                    <li>Cancer Science?</li>
+                </ul>
+            </div>
             <div class="text_area">
                 <img class="team_img" src="images/Zhaoqihang.jpg">
                 <ul class="team_member2_describe">
@@ -160,10 +201,7 @@
 
             
 
-            <div class="team_statement">
-                <div class="general-block-blue"></div>
-                <div class="team_member_statement">UNDERGRADUATE STUDENT</div>
-            </div>
+            
 
             <div class="text_area">
                 <img class="team_img" src="images/QinHaoning.jpg">
@@ -174,19 +212,7 @@
             </div>
 
 
-            <div class="team_statement">
-                <div class="general-block-blue"></div>
-                <div class="team_member_statement">PART-TIME RESEARCH ASSISTANT</div>
-            </div>
-
-            <div class="text_area">
-                <img class="team_img" src="images/TangHaoyun.jpg">
-                <ul class="team_member3_describe">
-                    <li>Tang, Haoyun</li>
-                    <li>Information Technology</li>
-                </ul>
-            </div>
-
+           
 
         </div>
     </div>
