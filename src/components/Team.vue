@@ -87,6 +87,16 @@
                 <div class="general-block-blue"></div>
                 <div class="team_member_statement">GRADUATE STUDENT</div>
             </div>
+          
+            <div class="text_area">
+                <img class="team_img" src="images/FuQinghui.jpg">
+                <ul class="team_member4_describe">
+                    <li>Fu, Qinghui</li>
+                    <li>Molecular biology </li>
+                </ul>
+            </div> 
+          
+          
             <div class="text_area">
                 <img class="team_img" src="images/HanNan.jpg">
                 <ul class="team_member4_describe">
@@ -176,7 +186,7 @@
                 <img class="team_img" src="images/ZhangJie.jpg">
                 <ul class="team_member2_describe">
                     <li>Zhang, Jie</li>
-                    <li>Cancer Science?</li>
+                    <li>Cancer Science</li>
                 </ul>
             </div>
             <div class="text_area">
