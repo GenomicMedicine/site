@@ -129,7 +129,7 @@
                 <img class="team_img" src="images/MaKe.jpg">
                 <ul class="team_member2_describe">
                     <li>Ma, Ke</li>
-                    <li>Bioinformatics</li>
+                    <li>Computational Biology</li>
                 </ul>
             </div>
 
