@@ -45,6 +45,7 @@
       <div class="title">
         <span class="title_span">News</span>
       </div>
+      
 
       <div class="text_area">
         <ul>
@@ -118,14 +119,7 @@
         </ul>
       </div>
            
-      <div class="text_area">
-        <ul>
-          <div class="news_time">2023.9</div>
-          <div class="news_content">
-            Welcome Li Jiaxuan to the Lab as a <b> PhD student</b>. Jiaxuan received a PolyU fellowship under the 3+1 scheme.
-          </div>
-        </ul>
-      </div>
+      
       
       <div class="text_area">
         <ul>
@@ -216,6 +210,16 @@
           </div>
         </ul>
       </div>
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2023.02</div>
+          <div class="news_content">
+            Weixiong has a review article published with <u>IEEE Transactions on Knowledge and Data Engineering.</u> 
+            This is a joint work with Professors Jin Di and He Dongxiao's groups at Tianjing University.  
+            The title of the paper: <b>A survey of community detection approaches: From statistical modeling to deep learning</b>
+          </div>
+        </ul>
+      </div>     
 
       <div class="text_area">
         <ul>
