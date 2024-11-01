@@ -33,9 +33,44 @@
             </div>
             <div class="team_statement">
                 <div class="general-block-blue"></div>
+                <div class="team_member_statement">Research Asistant Professor</div>
+            </div>
+            
+            <div class="text_area">
+                <img class="team_img" src="images/ChenJunyi.jpg">
+                <ul class="team_member2_describe">
+                    <li>Chen, Junyi</li>
+                    <li> Computer Science </li>
+                </ul>
+            </div>
+            
+            
+            
+            
+            <div class="team_statement">
+                <div class="general-block-blue"></div>
                 <div class="team_member_statement">POSTDOCTORAL RESEARCHER</div>
             </div>
+            <div class="text_area">
+                <img class="team_img" src="images/HuangYin.jpg">
+                <ul class="team_member2_describe">
+                    <li>Huang, Yin</li>
+                    <li>Computational Biology </li>
+                </ul>
+            </div>
+            
+            <div class="text_area">
+                <img class="team_img" src="images/PanChunyu.jpg">
+                <ul class="team_member2_describe">
+                    <li>Pan, Chunyu</li>
+                    <li>Computational Biology</li>
+                </ul>
+            </div>
 
+            
+            
+            
+            
             <div class="text_area">
                 <img class="team_img" src="images/TuYue.jpg">
                 <ul class="team_member2_describe">
@@ -44,6 +79,7 @@
                 </ul>
             </div>
 
+            
            
 
 
