@@ -45,16 +45,114 @@
       <div class="title">
         <span class="title_span">News</span>
       </div>
-      
 
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.11</div>
+          <div class="news_content">
+            Welcome Huang Ying to the Lab as Research Fellow and Pan Chunyu as Postdoc!
+
+          </div>
+        </ul>
+      </div>
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.10</div>
+          <div class="news_content">
+            Welcome Chen Junyi to the Lab as RAP!
+          </div>
+        </ul>
+      </div>
+
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.10</div>
+          <div class="news_content">
+            Weixiong has a paper accept to NeurlPS-2024 (url link: neurips.cc/Conferences/2024) for oral presentation.
+             This is a joint work with Professor He Dongxiao, a former student of Weixiong and currently a professor in Tianjin University, China. 
+             The title of the paper:<b>Exploitation of a latent mechanism in graph contrastive learning: Representation scattering.</b> 
+          </div>
+        </ul>
+      </div>
+      
+      
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.09</div>
+          <div class="news_content">
+            Shulan has been promoted to Principal Research Fellow, the highest rank in the research track. Congratulations, Shulan!
+          </div>
+        </ul>
+      </div>
+      
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.09</div>
+          <div class="news_content">
+             Welcome Edao Abebe, Li Yixin, Han Nan, Wang Zhenqian and Zhang Jie to the Lab as PhD students!
+          </div>
+        </ul>
+      </div>
+      
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.08</div>
+          <div class="news_content">
+             Weixiong has been appointed to the position of Associate Director of PolyU Academy of Interdisciplinary Research (PAIR)
+          </div>
+        </ul>
+      </div> 
+      
+         
+          
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.05</div>
+          <div class="news_content">
+            Welcome Zhang Chi to the Lab as PhD student!
+          </div>
+        </ul>
+      </div>  
+
+     
+      
       <div class="text_area">
         <ul>
           <div class="news_time">2024.04</div>
           <div class="news_content">
-            Abebe Edao, a new coming student, received <b>HK phd fellowship</b>. 
+             Welcome Tu Yue to the Lab as Postdoc!
           </div>
         </ul>
-      </div>     
+      </div>  
+      
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.04</div>
+          <div class="news_content">
+             Weixiong published a paper with <u>IEEE Transactions on Neural Networks and Learning Systems.</u>
+             The title of the paper: <b>Analyzing heterogeneous networks with missing attributes by unsupervised contrastive learning.</b>
+          </div>
+        </ul>
+      </div>  
+      
+      
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.04</div>
+          <div class="news_content">
+            Weixiong has a paper accepted to IJCAI-24. The title of the paper: eneralized taxonomy-guided graph neural networks.
+          </div>
+        </ul>
+      </div>    
+     
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2024.01</div>
+          <div class="news_content">
+            Welcome Fu Qinghui and Ma Ke to the Lab as PhD students!
+          </div>
+        </ul>
+      </div>    
      
       <div class="text_area">
         <ul>
@@ -196,6 +294,19 @@
                 Our paper on
                 <b> cancer-keeper genes as therapeutic targets </b> published
                 online with iScience, a Cell Press journal.
+              </div>
+            </ul>
+          </div>
+        </a>
+      </div>
+      <div class="text_area">
+            <ul>
+              <div class="news_time">2023.4</div>
+              <div class="news_content">
+                Weixiong has a paper accepted to ICML-24. 
+                This is a joint work with Professors Jin Di and He Dongxiao's groups at Tianjing University. 
+                 The title of the paper:<b>Constructive learning meets homophily: Two birds with one stone.</b> 
+                
               </div>
             </ul>
           </div>
