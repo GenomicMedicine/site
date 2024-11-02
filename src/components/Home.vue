@@ -299,18 +299,19 @@
           </div>
         </a>
       </div>
+     
+     
+      
+       
       <div class="text_area">
-            <ul>
-              <div class="news_time">2023.4</div>
-              <div class="news_content">
-                Weixiong has a paper accepted to ICML-24. 
+        <ul>
+          <div class="news_time">2023.4</div>
+          <div class="news_content">
+            Weixiong has a paper accepted to ICML-24. 
                 This is a joint work with Professors Jin Di and He Dongxiao's groups at Tianjing University. 
                  The title of the paper:<b>Constructive learning meets homophily: Two birds with one stone.</b> 
-                
-              </div>
-            </ul>
           </div>
-        </a>
+        </ul>
       </div>
 
       <div class="text_area">
@@ -321,6 +322,7 @@
           </div>
         </ul>
       </div>
+     
       <div class="text_area">
         <ul>
           <div class="news_time">2023.02</div>
