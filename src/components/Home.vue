@@ -68,7 +68,7 @@
         <ul>
           <div class="news_time">2024.10</div>
           <div class="news_content">
-            Weixiong has a paper accept to NeurlPS-2024 (url link: neurips.cc/Conferences/2024) for oral presentation.
+            Weixiong has a paper accept to NeurlPS-2024 for oral presentation.
              This is a joint work with Professor He Dongxiao, a former student of Weixiong and currently a professor in Tianjin University, China. 
              The title of the paper:<b>Exploitation of a latent mechanism in graph contrastive learning: Representation scattering.</b> 
           </div>
@@ -210,7 +210,7 @@
                   
       <div class="text_area">
         <ul>
-          <div class="news_time">2023.9</div>
+          <div class="news_time">2023.09</div>
           <div class="news_content">
             Our paper on <b>Total network controllability analysis discovers explainable drugs for Covid-19 treatment</b> was published in <b>Biology Direct</b>.
           </div>
@@ -221,7 +221,7 @@
       
       <div class="text_area">
         <ul>
-          <div class="news_time">2023.8</div>
+          <div class="news_time">2023.08</div>
           <div class="news_content">
             Shulan was promoted to <b> Senior Research Fellow </b> and took the
             position of <b> STEM Lab manager.</b>
@@ -231,7 +231,7 @@
 
       <div class="text_area">
         <ul>
-          <div class="news_time">2023.7</div>
+          <div class="news_time">2023.07</div>
           <div class="news_content">
             Weixiong was interviewed on
             <b> NOW NEWS, a Hong Kong TV news station </b>>, to discuss the
@@ -264,7 +264,7 @@
         >
           <div class="text_area">
             <ul>
-              <div class="news_time">2023.7</div>
+              <div class="news_time">2023.07</div>
               <div class="news_content">
                 Weixiong, as project PC, received
                 <b> RGC Strategic Target Grant (STG) funding </b> (five years
@@ -289,7 +289,7 @@
         >
           <div class="text_area">
             <ul>
-              <div class="news_time">2023.7</div>
+              <div class="news_time">2023.07</div>
               <div class="news_content">
                 Our paper on
                 <b> cancer-keeper genes as therapeutic targets </b> published
@@ -303,22 +303,23 @@
      
       
        
+     
+
       <div class="text_area">
         <ul>
-          <div class="news_time">2023.4</div>
+          <div class="news_time">2023.05</div>
+          <div class="news_content">
+            Dr. Qiu Shulan joined the lab as <b>Research Fellow.</b>
+          </div>
+        </ul>
+      </div>
+      <div class="text_area">
+        <ul>
+          <div class="news_time">2023.04</div>
           <div class="news_content">
             Weixiong has a paper accepted to ICML-24. 
                 This is a joint work with Professors Jin Di and He Dongxiao's groups at Tianjing University. 
                  The title of the paper:<b>Constructive learning meets homophily: Two birds with one stone.</b> 
-          </div>
-        </ul>
-      </div>
-
-      <div class="text_area">
-        <ul>
-          <div class="news_time">2023.5</div>
-          <div class="news_content">
-            Dr. Qiu Shulan joined the lab as <b>Research Fellow.</b>
           </div>
         </ul>
       </div>
@@ -336,7 +337,7 @@
 
       <div class="text_area">
         <ul>
-          <div class="news_time">2022.5</div>
+          <div class="news_time">2022.05</div>
           <div class="news_content">
             Weixiong received <b> Health and Medical Research Fund </b> (HMRF,
             three years and $1.4 million) to study <u> schizophrenia </u> using
