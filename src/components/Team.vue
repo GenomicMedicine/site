@@ -55,10 +55,7 @@
                 </ul>
             </div>
 
-            <div class="team_statement">
-                <div class="general-block-blue"></div>
-                <div class="team_member_statement">Research Fellow</div>
-            </div>
+            
           
             
             
@@ -362,4 +359,3 @@
     }
 }
 </style>
-
