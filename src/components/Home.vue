@@ -140,7 +140,7 @@
         <ul>
           <div class="news_time">2024.04</div>
           <div class="news_content">
-            Weixiong has a paper accepted to IJCAI-24. The title of the paper: eneralized taxonomy-guided graph neural networks.
+            Weixiong has a paper accepted to IJCAI-24. The title of the paper:<b>eneralized taxonomy-guided graph neural networks.</b> 
           </div>
         </ul>
       </div>    
