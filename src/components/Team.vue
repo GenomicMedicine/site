@@ -27,7 +27,7 @@
                 <img class="team_img" src="images/Qiushulan.jpg">
                 <ul class="team_member1_describe">
                     <li>Dr. Qiu, Shulan</li>
-                    <li>Senior Research Fellow</li>
+                    <li>Principal Research Fellow</li>
                     <li>Molecular biology</li>
                 </ul>
             </div>
