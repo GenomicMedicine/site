@@ -70,7 +70,7 @@
           <div class="news_content">
             Weixiong has a paper accept to NeurlPS-2024 for oral presentation.
              This is a joint work with Professor He Dongxiao, a former student of Weixiong and currently a professor in Tianjin University, China. 
-             The title of the paper:<b>Exploitation of a latent mechanism in graph contrastive learning: Representation scattering.</b> 
+             The title of the paper:<b>Exploitation of a latent mechanism in graph contrastive learning: Representation scattering</b>. 
           </div>
         </ul>
       </div>
@@ -130,7 +130,7 @@
           <div class="news_time">2024.04</div>
           <div class="news_content">
              Weixiong published a paper with <u>IEEE Transactions on Neural Networks and Learning Systems.</u>
-             The title of the paper: <b>Analyzing heterogeneous networks with missing attributes by unsupervised contrastive learning.</b>
+             The title of the paper: <b>Analyzing heterogeneous networks with missing attributes by unsupervised contrastive learning</b>.
           </div>
         </ul>
       </div>  
@@ -140,7 +140,7 @@
         <ul>
           <div class="news_time">2024.04</div>
           <div class="news_content">
-            Weixiong has a paper accepted to IJCAI-24. The title of the paper:<b>eneralized taxonomy-guided graph neural networks.</b> 
+            Weixiong has a paper accepted to IJCAI-24. The title of the paper:<b>eneralized taxonomy-guided graph neural networks</b>.
           </div>
         </ul>
       </div>    
@@ -158,7 +158,7 @@
         <ul>
           <div class="news_time">2023.12</div>
           <div class="news_content">
-            Wang Zhenqian, a new coming student, received <b>PolyU Presidential PhD Fellowship</b>. 
+            Wang Zhenqian, a new coming student, received <b>PolyU Presidential PhD Fellowship</b>.
           </div>
         </ul>
       </div>
@@ -167,7 +167,7 @@
         <ul>
           <div class="news_time">2023.11</div>
           <div class="news_content">
-            Our paper on  <b>A neuroimaging-based precision medicine framework for depression</b> was published online with <b>Asian J Psychiatry</b>. 
+            Our paper on  <b>A neuroimaging-based precision medicine framework for depression</b> was published online with <b>Asian J Psychiatry</b>.
           </div>
         </ul>
       </div>
@@ -224,7 +224,7 @@
           <div class="news_time">2023.08</div>
           <div class="news_content">
             Shulan was promoted to <b> Senior Research Fellow </b> and took the
-            position of <b> STEM Lab manager.</b>
+            position of <b> STEM Lab manager</b>.
           </div>
         </ul>
       </div>
@@ -309,7 +309,7 @@
         <ul>
           <div class="news_time">2023.05</div>
           <div class="news_content">
-            Dr. Qiu Shulan joined the lab as <b>Research Fellow.</b>
+            Dr. Qiu Shulan joined the lab as <b>Research Fellow</b>.
           </div>
         </ul>
       </div>
@@ -319,7 +319,7 @@
           <div class="news_content">
             Weixiong has a paper accepted to ICML-24. 
                 This is a joint work with Professors Jin Di and He Dongxiao's groups at Tianjing University. 
-                 The title of the paper:<b>Constructive learning meets homophily: Two birds with one stone.</b> 
+                 The title of the paper:<b>Constructive learning meets homophily: Two birds with one stone</b>.
           </div>
         </ul>
       </div>
@@ -330,7 +330,7 @@
           <div class="news_content">
             Weixiong has a review article published with <u>IEEE Transactions on Knowledge and Data Engineering.</u> 
             This is a joint work with Professors Jin Di and He Dongxiao's groups at Tianjing University.  
-            The title of the paper: <b>A survey of community detection approaches: From statistical modeling to deep learning</b>
+            The title of the paper: <b>A survey of community detection approaches: From statistical modeling to deep learning</b>.
           </div>
         </ul>
       </div>     
