@@ -43,13 +43,10 @@
                     <li> Computer Science </li>
                 </ul>
             </div>
-            
-            
-            
-            
+
             <div class="team_statement">
                 <div class="general-block-blue"></div>
-                <div class="team_member_statement">POSTDOCTORAL RESEARCHER</div>
+                <div class="team_member_statement">Research Fellow</div>
             </div>
             <div class="text_area">
                 <img class="team_img" src="images/HuangYin.jpg">
@@ -58,6 +55,15 @@
                     <li>Computational Biology </li>
                 </ul>
             </div>
+            
+            
+            
+            
+            <div class="team_statement">
+                <div class="general-block-blue"></div>
+                <div class="team_member_statement">POSTDOCTORAL RESEARCHER</div>
+            </div>
+           
             
             <div class="text_area">
                 <img class="team_img" src="images/PanChunyu.jpg">
