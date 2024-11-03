@@ -56,11 +56,6 @@
             </div>
 
             
-          
-            
-            
-            
-            
             <div class="team_statement">
                 <div class="general-block-blue"></div>
                 <div class="team_member_statement">POSTDOCTORAL RESEARCHER</div>
