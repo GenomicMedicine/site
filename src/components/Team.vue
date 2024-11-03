@@ -43,7 +43,6 @@
                     <li> Computer Science </li>
                 </ul>
             </div>
-
             <div class="team_statement">
                 <div class="general-block-blue"></div>
                 <div class="team_member_statement">Research Fellow</div>
@@ -55,6 +54,12 @@
                     <li>Computational Biology </li>
                 </ul>
             </div>
+
+            <div class="team_statement">
+                <div class="general-block-blue"></div>
+                <div class="team_member_statement">Research Fellow</div>
+            </div>
+          
             
             
             
