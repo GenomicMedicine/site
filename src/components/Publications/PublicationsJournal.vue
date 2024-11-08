@@ -3,6 +3,8 @@
         <div class="publications_nav">
                 <ul>
                     <li class="publications_nav_byYear"><RouterLink class="publications_link" to="/publications/journal/all">ALL</RouterLink></li>
+                    <li class="publications_nav_byYear"><RouterLink class="publications_link" to="/publications/journal/2024">
+                        <span class="dot"><span class="indot"></span></span>&nbsp;2024</RouterLink></li>
                     <li class="publications_nav_byYear"><RouterLink class="publications_link" to="/publications/journal/2023">
                         <span class="dot"><span class="indot"></span></span>&nbsp;2023</RouterLink></li>
                     <li class="publications_nav_byYear"><RouterLink class="publications_link" to="/publications/journal/2022">

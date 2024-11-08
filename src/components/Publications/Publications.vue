@@ -4,9 +4,10 @@
             <div class="publications_nav">
                 <ul>
                     <li class="title_span"><RouterLink class="research_link" to="/publications/statement">Representative Publications<p style="font-weight: normal;">(Total>200)</p></RouterLink></li>
-                    <li class="publications_nav_name"><RouterLink class="research_link" to="/publications/researchMonograph">Research Monograph</RouterLink></li>
+                    <li class="publications_nav_name"><RouterLink class="research_link" to="/publications/preprints">Preprints</RouterLink></li>
                     <li class="publications_nav_name"><RouterLink class="research_link" to="/publications/journal/all">Selected Journal Publication</RouterLink></li>
                     <li class="publications_nav_name"><RouterLink class="research_link" to="/publications/peer-reviewed/all">Selected Peer-reviewed Conference Publication</RouterLink></li>
+                    <li class="publications_nav_name"><RouterLink class="research_link" to="/publications/researchMonograph">Research Monograph</RouterLink></li>
                 </ul>
             </div>
             <router-view/>

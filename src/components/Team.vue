@@ -25,7 +25,7 @@
 
             <div class="text_area">
                 <img class="team_img" src="images/Qiushulan.jpg">
-                <ul class="team_member1_describe">
+                <ul class="team_member_describe">
                     <li>Dr. Qiu, Shulan</li>
                     <li>Principal Research Fellow</li>
                     <li>Molecular biology</li>
@@ -33,23 +33,23 @@
             </div>
             <div class="team_statement">
                 <div class="general-block-blue"></div>
-                <div class="team_member_statement">Research Asistant Professor</div>
+                <div class="team_member_statement">RESEARCH ASSISTANT PROFESSOR</div>
             </div>
             
             <div class="text_area">
                 <img class="team_img" src="images/ChenJunyi.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Chen, Junyi</li>
                     <li> Computer Science </li>
                 </ul>
             </div>
             <div class="team_statement">
                 <div class="general-block-blue"></div>
-                <div class="team_member_statement">Research Fellow</div>
+                <div class="team_member_statement">RESEARCH FELLOW</div>
             </div>
             <div class="text_area">
                 <img class="team_img" src="images/HuangYin.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Huang, Yin</li>
                     <li>Computational Biology </li>
                 </ul>
@@ -64,7 +64,7 @@
             
             <div class="text_area">
                 <img class="team_img" src="images/PanChunyu.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Pan, Chunyu</li>
                     <li>Computational Biology</li>
                 </ul>
@@ -76,7 +76,7 @@
             
             <div class="text_area">
                 <img class="team_img" src="images/TuYue.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Tu, Yue</li>
                     <li>Bioinformatics</li>
                 </ul>
@@ -94,7 +94,7 @@
 
             <div class="text_area">
                 <img class="team_img" src="images/DengJing.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Deng, Jing</li>
                     <li>Molecular biology</li>
                 </ul>
@@ -103,7 +103,7 @@
 
             <div class="text_area">
                 <img class="team_img" src="images/SunCanghao.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Sun, Canghao</li>
                     <li>Molecular biology</li>
                 </ul>
@@ -114,7 +114,7 @@
            
             <div class="text_area">
                 <img class="team_img" src="images/ZhuYanan.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Zhu, Yanan</li>
                     <li>Molecular biology</li>
                 </ul>
@@ -129,7 +129,7 @@
           
             <div class="text_area">
                 <img class="team_img" src="images/FuQinghui.jpg">
-                <ul class="team_member4_describe">
+                <ul class="team_member_describe">
                     <li>Fu, Qinghui</li>
                     <li>Molecular biology </li>
                 </ul>
@@ -138,7 +138,7 @@
           
             <div class="text_area">
                 <img class="team_img" src="images/HanNan.jpg">
-                <ul class="team_member4_describe">
+                <ul class="team_member_describe">
                     <li>Han, Nan</li>
                     <li>Bioinformatics </li>
                 </ul>
@@ -146,7 +146,7 @@
             
             <div class="text_area">
                 <img class="team_img" src="images/LiKang.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Li, Kang</li>
                     <li>Noncoding RNA</li>
                 </ul>
@@ -155,7 +155,7 @@
 
             <div class="text_area">
                 <img class="team_img" src="images/LiYixin.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Li, Yixin</li>
                     <li>Molecular biology</li>
                 </ul>
@@ -166,7 +166,7 @@
             
             <div class="text_area">
                 <img class="team_img" src="images/MaKe.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Ma, Ke</li>
                     <li>Computational Biology</li>
                 </ul>
@@ -176,7 +176,7 @@
 
             <div class="text_area">
                 <img class="team_img" src="images/Negesso, Abebe Edao.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Negesso, Abebe Edao</li>
                     <li>Clinical chemistry</li>
                 </ul>
@@ -184,7 +184,7 @@
 
             <div class="text_area">
                 <img class="team_img" src="images/WangWeixu.png">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Wang, Weixu</li>
                     <li>Noncoding RNA</li>
                 </ul>
@@ -192,14 +192,14 @@
 
             <div class="text_area">
                 <img class="team_img" src="images/WangYuchuan.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Wang, Yuchuan</li>
                     <li>Computational Biology</li>
                 </ul>
             </div>
             <div class="text_area">
                 <img class="team_img" src="images/WangZhenqian.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Wang, Zhenqian</li>
                     <li>Genetic Epidemiology</li>
                 </ul>
@@ -209,28 +209,28 @@
             
             <div class="text_area">
                 <img class="team_img" src="images/ZhangChi.jpg">
-                <ul class="team_member3_describe">
+                <ul class="team_member_describe">
                     <li>Zhang, Chi</li>
                     <li>Computational biology</li>
                 </ul>
             </div>
             <div class="text_area">
                 <img class="team_img" src="images/ZhangFei.png">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Zhang, Fei</li>
                     <li>DNA Biomarker</li>
                 </ul>
             </div>
             <div class="text_area">
                 <img class="team_img" src="images/ZhangJie.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Zhang, Jie</li>
                     <li>Cancer Science</li>
                 </ul>
             </div>
             <div class="text_area">
                 <img class="team_img" src="images/Zhaoqihang.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Zhao, Qihang</li>
                     <li>DNA Biomarker</li>
                 </ul>
@@ -239,10 +239,10 @@
            
            
            
-           
+        
             <div class="text_area">
                 <img class="team_img" src="images/Zhuyan.jpg">
-                <ul class="team_member3_describe">
+                <ul class="team_member_describe">
                     <li>Zhu, Yan</li>
                     <li>Computational biology</li>
                 </ul>
@@ -254,7 +254,7 @@
 
             <div class="text_area">
                 <img class="team_img" src="images/QinHaoning.jpg">
-                <ul class="team_member2_describe">
+                <ul class="team_member_describe">
                     <li>Qin, Haoning</li>
                     <li>Molecular biology</li>
                 </ul>
@@ -303,54 +303,22 @@
     margin-bottom: 15px;
     font-size: 20px;
     .hoverShadow();
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
 }
 
 .team_img{
-    width: 350px;
-    max-height: 280px;
+    width: 200px;
+    max-height: 150px;
+    
 }
 .team_member_describe{
-    float: right;
-    padding-right: 120px;
-    padding-top: 20px;
+    flex: 1;
+    padding: 20px 120px 0 0;
     li{
         padding-bottom: 15px;
-    }
-}
-
-.team_member1_describe{
-    float: right;
-    padding-right: 432.35px;
-    padding-top: 20px;
-    li{
-        padding-bottom: 15px;
-    }
-}
-
-.team_member2_describe{
-    float: right;
-    padding-right: 489.03px;
-    padding-top: 20px;
-    li{
-        padding-bottom: 15px;
-    }
-}
-
-.team_member3_describe{
-    float: right;
-    padding-right: 428.94px;
-    padding-top: 20px;
-    li{
-        padding-bottom: 15px;
-    }
-}
-
-.team_member4_describe{
-    float: right;
-    padding-right: 416.74px;
-    padding-top: 20px;
-    li{
-        padding-bottom: 15px;
+        min-width: 300px;
     }
 }
 </style>

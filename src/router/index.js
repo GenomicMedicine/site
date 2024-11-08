@@ -12,7 +12,9 @@ import ResearchMachine from '@/components/Research/ResearchMachine.vue'
 import ResearchInterests from '@/components/Research/ResearchInterests.vue'
 import PublicationsStatement from '@/components/Publications/PublicationsStatement.vue'
 import PublicationsResearchMonograph from '@/components/Publications/PublicationsResearchMonograph.vue'
+import PublicationsPreprints from '@/components/Publications/PublicationsPreprints.vue'
 import PublicationsJournal from '@/components/Publications/PublicationsJournal.vue'
+import Journal2024 from '@/components/Publications/Journal/Journal2024.vue'
 import Journal2023 from '@/components/Publications/Journal/Journal2023.vue'
 import Journal2022 from '@/components/Publications/Journal/Journal2022.vue'
 import Journal2021 from '@/components/Publications/Journal/Journal2021.vue'
@@ -32,6 +34,7 @@ import Journal2010before from '@/components/Publications/Journal/Journal2010befo
 import JournalALL from  '@/components/Publications/Journal/JournalALL.vue'
 import PublicationsPeerReviewed  from '@/components/Publications/PublicationsPeerReviewed.vue'
 
+import Conference2024 from '@/components/Publications/Conference/Conference2024.vue'
 import Conference2023 from '@/components/Publications/Conference/Conference2023.vue'
 import Conference2022 from '@/components/Publications/Conference/Conference2022.vue'
 import Conference2020 from '@/components/Publications/Conference/Conference2020.vue'
@@ -107,10 +110,20 @@ const routes = [
           component: PublicationsResearchMonograph
         },
         {
+          path: 'preprints',
+          name: 'PublicationsPreprints',
+          component: PublicationsPreprints
+        },
+        {
           path: 'journal',
           name: 'PublicationsJournal',
           component: PublicationsJournal,
           children: [
+            {
+              path: '2024',
+              name: 'Journal2024',
+              component: Journal2024,
+            },
             {
               path: '2023',
               name: 'Journal2023',
@@ -198,6 +211,11 @@ const routes = [
           name: 'PublicationsPeerReviewed',
           component: PublicationsPeerReviewed,
           children: [
+            {
+              path: '2024',
+              name: 'Conference2024',
+              component: Conference2024,
+            },
             {
               path: '2023',
               name : 'Conference2023',
