@@ -7,38 +7,28 @@
       </div>
 
       <div class="text_area">
-        <ul>
-          <li>Genetics/Genomics:</li>
-          <p>
-            Genetic architecture and transcriptome of complex traits and disease
-          </p>
-        </ul>
-        <ul>
-          <li>Noncoding RNA:</li>
-          <p>Biogenesis and function of (small) noncoding transcript</p>
-        </ul>
-        <ul>
-          <li>Medical imaging:</li>
-          <p>Segmentation of tumors and organs at risk</p>
-        </ul>
-        <ul>
-          <li>Disease study:</li>
-          <p>
-            Etiology and biomarker (e.g., cancer, neuronal and psychiatric
-            disorders)
-          </p>
-        </ul>
-        <ul>
-          <li>Big data analytics:</li>
-          <p>Novel algorithm for massive (biological) data analysis</p>
-        </ul>
-        <ul>
-          <li>Artificial intelligence:</li>
-          <p>
-            Heuristic search, constraint satisfaction, and combinatorial
-            optimization
-          </p>
-        </ul>
+        <!-- Research Area Section -->
+        <div class="research-section">
+          <div class="research-item">
+            <span class="research-title">Molecular/Cellular Biology:</span>
+            <span>Biogenesis and function of noncoding transcript <b style="color: red;">(we are actively recruiting in this area)</b></span>
+          </div>
+          
+          <div class="research-item">
+            <span class="research-title">Genetics/Genomics:</span>
+            <span>Genetic architecture and transcriptome of complex trait and disease</span>
+          </div>
+          
+          <div class="research-item">
+            <span class="research-title">Multi-omic disease study:</span>
+            <span>Etiology and biomarker discovery by integrating genomic, imagery and phenotypic information</span>
+          </div>
+          
+          <div class="research-item">
+            <span class="research-title">Big data analytics and AI:</span>
+            <span>Algorithm for massive (biological) data analysis, biological foundation models (aka large language models) and applications</span>
+          </div>
+        </div>
       </div>
 
       <!-- News u是下划线，b是加粗，div是容器-->
@@ -169,12 +159,12 @@
           <div class="news_time">2023.11</div>
           <div class="news_content">
             Weixiong was selected into the list of
-            <b> "Top 2% of Global Scientists"</b> 
+            <b> "Top 2% of Global Scientists" </b>
             <a
           href="https://www.polyu.edu.hk/pair/news-and-events/news/2023/20231020-one-hundred-and-ten-pair-scholars-ranked-among-world-top-2-most-cited-scientists/?sc_lang=tc"
           target="_blank"
           class="news_content_link"
-          > [link]</a>
+          >[link]</a>
           </div>
         </ul>
 
@@ -229,12 +219,12 @@
             href="https://news.now.com/home/local/player?newsId=526105&utm_source=nowNewsAppShare&utm_medium=referral"
             class="news_content_link"
             target="_blank"
-            > [link to the video 1]</a>
+            > [link to the video 1]</a>&nbsp;
           <a
             href="https://news.now.com/home/local/player?newsId=526106&utm_source=nowNewsAppShare&utm_medium=referral"
             class="news_content_link"
             target="_blank"
-            > [link to the video 2]</a>
+            >[link to the video 2]</a>
           </div>
         </ul>
 
@@ -351,16 +341,17 @@ export default {};
   .hoverShadow();
 }
 
-.news_content_link:visited {
-  color: @highLightColor;
-  .news_content {
-    color: @highLightColor;
+.news_content_link {
+  &:visited {
+    color: #551A8B;  // 经典的已访问链接紫色
   }
-}
-.news_content_link:link {
-  color: @navColor;
-  .news_content {
-    color: @navColor;
+  
+  &:link {
+    color: #0000EE;  // 经典的未访问链接蓝色
+  }
+  
+  &:hover {
+    text-decoration: underline;  // 鼠标悬停时添加下划线
   }
 }
 
@@ -397,4 +388,77 @@ export default {};
   font-weight: lighter;
   color: @navColor;
 }
+
+.recruiting {
+  color: red;
+  font-weight: bold;
+}
+
+.title {
+  text-align: left;
+  padding-left: 90px;
+  margin-bottom: 10px;
+}
+
+.title_span {
+  font-size: 24px;
+  font-weight: bold;
+  position: relative;
+  display: inline-block;
+}
+
+.research-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  padding: 20px 90px;
+}
+
+.research-item {
+  display: flex;
+  padding: 10px 90px;
+  align-items: flex-start;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.research-title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  width: 300px;  // 增加宽度确保标题完全显示
+  flex-shrink: 0;  // 防止标题被压缩
+  white-space: nowrap;  // 防止标题换行
+  margin-right: 20px;  // 与内容保持距离
+}
+
+.research-section {
+  .research-item {
+    display: flex;
+    padding: 10px 90px;
+    align-items: flex-start;
+    font-size: 18px;
+    line-height: 1.5;
+    height: 80px;
+    box-sizing: border-box;
+  }
+
+  .research-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    width: 300px;
+    flex-shrink: 0;
+    white-space: nowrap;
+    margin-right: 20px;
+  }
+
+  span:last-child {
+    flex: 1;
+    max-width: calc(100% - 320px);
+    padding-right: 20px;
+    overflow-wrap: break-word;
+  }
+}
+
 </style>
