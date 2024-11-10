@@ -41,6 +41,17 @@
         <ul>
           <div class="news_time">2024.11</div>
           <div class="news_content">
+            Weixiong has a paper accepted to ACM  Transactions on Intelligent Systems and Technology,
+             under the title of "<b>Heterogeneous Graph Neural Networks using Self-supervised Reciprocally Contrastive Learning</b>"
+          </div>
+        </ul>
+
+        <br>
+
+
+        <ul>
+          <div class="news_time">2024.11</div>
+          <div class="news_content">
             Welcome Huang Yin to the Lab as Research Fellow and Pan Chunyu as Postdoc!
           </div>
         </ul>
@@ -60,6 +71,21 @@
           <div class="news_time">2024.10</div>
           <div class="news_content">
             Weixiong has a paper accept to NeurlPS-2024 for oral presentation. This is a joint work with Professor He Dongxiao, a former student of Weixiong and currently a professor in Tianjin University, China. The title of the paper:<b>Exploitation of a latent mechanism in graph contrastive learning: Representation scattering</b>.
+          </div>
+        </ul>
+
+        <br>
+
+
+        <ul>
+          <div class="news_time">2024.09</div>
+          <div class="news_content">
+            We built our first foundation model on genomics, which we called dnaGrinder. A preprint of the manuscript on dnaGrinder is available at arXiv.
+            <a
+          href=" https://arxiv.org/abs/2409.15697"
+          target="_blank"
+          class="news_content_link"
+          >[link]</a>
           </div>
         </ul>
 
