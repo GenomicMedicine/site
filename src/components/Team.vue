@@ -211,7 +211,7 @@
                 <img class="team_img" src="images/ZhangChi.jpg">
                 <ul class="team_member_describe">
                     <li>Zhang, Chi</li>
-                    <li>Computational biology</li>
+                    <li>AI For Science</li>
                 </ul>
             </div>
             <div class="text_area">
