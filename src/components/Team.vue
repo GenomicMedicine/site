@@ -14,7 +14,7 @@
                     <li>Zhang, Weixiong, PhD</li>
                     <li>章偉雄, 講座教授</li>
                     <li>Hong Kong Global STEM Professor</li>
-                    <li>Chair Professor in Bioinformatics and Integrative Genomics</li>
+                    <li>Chair Professor of Systems Biology and Artificial Intelligence</li>
                 </ul>
             </div>
 
