@@ -109,7 +109,14 @@
                 </ul>
             </div>
             
-
+            <div class="text_area">
+                <img class="team_img" src="images/ZengXianlin.jpg">
+                <ul class="team_member_describe">
+                    <li>Zeng, Xianlin</li>
+                    <li>Bioinformatics</li>
+                </ul>
+            </div>
+            
            
            
             <div class="text_area">
