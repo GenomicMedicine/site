@@ -102,10 +102,10 @@
             
 
             <div class="text_area">
-                <img class="team_img" src="images/SunCanghao.jpg">
+                <img class="team_img" src="images/JiangJiahao.jpg">
                 <ul class="team_member_describe">
-                    <li>Sun, Canghao</li>
-                    <li>Molecular biology</li>
+                    <li>Jiang, Jiahao</li>
+                    <li>Surgery</li>
                 </ul>
             </div>
             
@@ -267,7 +267,13 @@
                 </ul>
             </div>
 
-
+            <div class="text_area">
+                <img class="team_img" src="images/SunCanghao.jpg">
+                <ul class="team_member_describe">
+                    <li>Sun, Canghao</li>
+                    <li>Molecular biology</li>
+                </ul>
+            </div>
            
 
         </div>
