@@ -36,7 +36,12 @@
         <span class="title_span">News</span>
       </div>
       <div class="text_area">
-
+        <ul>
+          <div class="news_time">2025.2</div>
+          <div class="news_content">
+            Tan Yejun,  an RA at the lab and a new PhD student, received <b>PolyU Presidential PhD Fellowship</b>.
+          </div>
+        </ul>
 
         <ul>
           <div class="news_time">2024.11</div>
