@@ -1,7 +1,7 @@
 name: "Genmoics and Artificial Intelligence in Healthcare Lab"
 description: "This is the official web page for the Genmoics and Artificial Intelligence in Healthcare Lab at Hong Kong PolyU."
 
-url: "https://genomics-in-healthcare.github.io/"
+url: "https://genomicmedicine.github.io/site/"
 
 paginate: 10
 plugins: [jekyll-paginate]
