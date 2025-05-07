@@ -1,0 +1,47 @@
+name: "Genmoics and Artificial Intelligence in Healthcare Lab"
+description: "This is the official web page for the Genmoics and Artificial Intelligence in Healthcare Lab at Hong Kong PolyU."
+
+url: "https://genomics-in-healthcare.github.io/"
+
+paginate: 10
+plugins: [jekyll-paginate]
+paginate_path: "news/page:num"
+
+permalink: /:collection/:path/
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+exclude:
+        - .sass-cache/
+        - .jekyll-cache/
+        - gemfiles/
+        - Gemfile
+        - Gemfile.lock
+        - node_modules/
+        - vendor/bundle/
+        - vendor/cache/
+        - vendor/gems/
+        - vendor/ruby/
+
+collections:
+        affiliates:
+                output: true
+        members:
+                output: true
+        publications:
+                output: true
+        reviews:
+                output: true
+        alumni:
+                output: true
+        sep:
+                output: true
+        visitors:
+                output: true
+        undergrads:
+                output: true
+        pets:
+                output: true
+        tags:
+                output: true
