@@ -1,27 +1,27 @@
 - name: home
-  link: "/site"
+  link: "/"
   group: home
 
 - name: news
-  link: "/site/news"
+  link: "/news"
   group: news
 
 - name: research
-  link: "/site/research"
+  link: "/research"
   group: research
 
 - name: publications
-  link: "/site/publications"
+  link: "/publications"
   group: publications
 
 - name: members
-  link: "/site/members"
+  link: "/members"
   group: members
 
 - name: join
-  link: "/site/join"
+  link: "/join"
   group: join
 
 - name: contact
-  link: "/site/contact"
+  link: "/contact"
   group: contact
