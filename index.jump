@@ -1,0 +1,85 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Moved</title>
+    <meta http-equiv="refresh" content="5;url=https://genomics-in-healthcare.github.io/">
+    <style>
+        body {
+            font-family: sans-serif;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .container {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #0056b3; /* A professional blue tone */
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        a {
+            color: #007bff; /* A clear link color */
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .redirect-message {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Our Website Has Moved!</h1>
+        <p>To provide you with a better experience, we have moved our website to a new address.</p>
+        <p>You will be automatically redirected to our new site in <span id="countdown">3</span> seconds.</p>
+        <p>If your browser does not redirect you automatically, please click the link below:</p>
+        <p><a href="https://genomics-in-healthcare.github.io/">https://genomics-in-healthcare.github.io/</a></p>
+        <p class="redirect-message">Thank you for your understanding!</p>
+    </div>
+
+    <script>
+        let seconds = 3;
+        const countdownElement = document.getElementById('countdown');
+
+        function updateCountdown() {
+            countdownElement.textContent = seconds;
+            seconds--;
+            if (seconds < 0) {
+                // The meta refresh should typically fire first.
+                // If it doesn't for some reason, this could be a fallback.
+                // window.location.href = "https://genomics-in-healthcare.github.io/";
+            } else {
+                setTimeout(updateCountdown, 1000);
+            }
+        }
+
+        // Start countdown when the page loads
+        window.onload = function() {
+            updateCountdown();
+        };
+    </script>
+</body>
+</html>
+ -->
