@@ -36,8 +36,34 @@
         <span class="title_span">News</span>
       </div>
       <div class="text_area">
+        <ul>          <div class="news_time">2026.1</div>
+          <div class="news_content">
+            Tu Y, Hao K, Wang F, Qiu S, Zhang W. (2026). <b>Circuit-specific resting-state fMRI signatures for stratifying first-episode major depressive disorder and predicting recurrence risk.</b> bioRxiv preprint. doi:10.64898/2026.01.26.701909.
+            <a
+          href="https://doi.org/10.64898/2026.01.26.701909"
+          target="_blank"
+          class="news_content_link"
+          >[link]</a>
+          </div>
+        </ul>
+
+        <br>
+
         <ul>
-          <div class="news_time">2025.2</div>
+          <div class="news_time">2026.1</div>
+          <div class="news_content">
+            Tu Y., Fu Q., Li Y., Sun C., Zhu Y., Deng J., Qin H., Zeng X., Wang Y., Qiu S., Zhang W. (2026). <b>Multimodal behavior scoring quantifies depression-like severity across chronic stress models and identifies stress-resilient mice.</b> bioRxiv preprint. doi:10.64898/2026.01.26.701905.
+            <a
+          href="https://doi.org/10.64898/2026.01.26.701905"
+          target="_blank"
+          class="news_content_link"
+          >[link]</a>
+          </div>
+        </ul>
+
+        <br>
+
+        <ul>          <div class="news_time">2025.2</div>
           <div class="news_content">
             Tan Yejun,  an RA at the lab and a new PhD student, received <b>PolyU Presidential PhD Fellowship</b>.
           </div>
